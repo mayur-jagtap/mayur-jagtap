@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mayur</h1>
 
-- 👨‍💻 You can check out my portfolio at [Portfolio](https://mayur-jagtap.github.io/)
+- 👨‍💻 You can check out my portfolio at [Mayur Jagtap](https://mayur-jagtap.github.io/)
 
 - 📫 How to reach me **itsmj2414@gmail.com**
 
